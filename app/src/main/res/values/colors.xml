@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_login_tfields">#434242</color>
+    <color name="color_policy">#FC4C9CF3</color>
+    <color name="color_issues">#DF000000</color>
+    <color name="issues_color">#36BA3B</color>
+    <color name="color_request">#2196F3</color>
+    <color name="color_discussions">#7E0E91</color>
+    <color name="color_projects">#84888F</color>
+    <color name="color_repositories">#363C36</color>
+    <color name="color_organizations">#FF9800</color>
+    <color name="color_starred">#FFC107</color>
+    <color name="color_add">#232323</color>
+    <color name="color_btn_add">#FC1B64B1</color>
+    <color name="color_line">#C3C8C8</color>
+    <color name="color_briefcase">#3E4C98</color>
+    <color name="color_file">#635F5F</color>
+    <color name="color_people">#E4746B</color>
+    <color name="color_access">#232323</color>
+    <color name="notification_color">#289F9D9D</color>
+    <color name="color_explore">#289F9D9D</color>
+    <color name="color_user">#C1000000</color>
+    <color name="color_view_person">#A3BCBDBD</color>
+    <color name="color_blacckk">#A4000000</color>
+    <color name="colaosd">#363C36</color>
+    <color name="colororg">#FF9800</color>
+    <color name="color_bcak">#75000000</color>
+    <color name="color_blackk">#94000000</color>
+</resources>
